@@ -1,2 +1,2 @@
 # titles-and-likes-ML
-KNN prediction of number of likes based on article title
+KNNR prediction of number of likes based on cosine similarity of article titles
